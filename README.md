@@ -1,5 +1,5 @@
 # kafka-live-visualization
-![alt text](https://github.com/Huzaifakamran/kafka-live-visualization/blob/main/screenshot.png?raw=true)
+![alt text](https://github.com/Huzaifakamran/kafka-live-visualization/blob/main/screenshot.PNG)
 
 
 ##Note:
